@@ -8,5 +8,5 @@ Links para minhas redes: <http://linktr.ee/brunopenso>
 
 ### TDC
 
-**Grafos, Micro serviços, monólitos e integrações - Como conhecer a arquitetura da sua empresa** - [Aqui](tdc/2021)
+**Grafos, Micro serviços, monólitos e integrações - Como conhecer a arquitetura da sua empresa** - [Aqui](tdc/2021/Links.md)
 
