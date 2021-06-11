@@ -2,22 +2,18 @@
 
 Nesse site vou agregar alguns conteúdos que acredito ser interessante para o mundo de tecnologia.
 
-Links para minhas redes: <http://linktr.ee/brunopenso>
+- Links para minhas redes: <http://linktr.ee/brunopenso>
+- [Eventos/Participações](./Events.md)
 
-## Eventos
+## Bibliotecas
+### Recuperação de NFCE
 
-### TDC
+Biblioteca em python para recuperar os dados da nota fiscal eletrônica, como não tenho o certificado digital optei por fazer uma biblioteca que através do link do QrCode é possível recuperar essa nota e transformar em um JSON.
 
-**Grafos, Micro serviços, monólitos e integrações - Como conhecer a arquitetura da sua empresa**
+<https://github.com/brunopenso/python-nfce-get>
 
-[Aqui](tdc/2021/Links.md)
+### Abstração de runtime
 
-**Monolito e Micro Serviço – Uma Jornada de Evolução**
+Biblioteca em node para abstração das runtimes para facilitar meus testes e pocs
 
-[Aqui](tdc/2020/Presentation-Monolith.pdf)
-
-### Meetups
-
-**AWS Cognito** - <https://github.com/brunopenso/awscognitodemo-webapp>
-
-
+<https://github.com/brunopenso/multi-integration-library>
