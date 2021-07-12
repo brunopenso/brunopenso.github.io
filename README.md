@@ -1,4 +1,4 @@
-# Bem vindxs!
+# Bem vindos(as)!
 
 Nesse site vou agregar alguns conteúdos que acredito ser interessante para o mundo de tecnologia.
 
